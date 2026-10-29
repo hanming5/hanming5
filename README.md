@@ -60,17 +60,6 @@ pleasure to maintain** long after it ships.
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hanming5&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanming5&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
-
-</div>
-
----
-
 <div align="center">
 
 *Open to meaningful conversations about engineering, architecture, and building great products.*
